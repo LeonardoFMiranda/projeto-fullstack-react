@@ -1,0 +1,32 @@
+.footer {
+    background-color: #222;
+    color: #fff;
+    padding: 3em;
+    text-align: center;
+    
+    
+}
+.socialList{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+    gap: 15px;
+    margin-bottom: 1em;
+}
+a {
+    color: #efefef;
+}
+a:hover{
+    color: #ffbb33;
+    cursor: pointer;
+}
+
+.copyRight span{
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+}
+
