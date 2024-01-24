@@ -1,34 +1,95 @@
 {
   "projects": [
     {
-      "id": "84d7",
-      "name": "Teste03",
-      "budget": "1500",
+      "name": "Projeto de Infra",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Contratar um DevOps",
+          "cost": "5000",
+          "description": "DevOps para criar projeto na AWS",
+          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        }
+      ],
+      "id": 2
     },
     {
-      "id": "bdbc",
-      "name": "Teste05",
-      "budget": "12300",
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
       },
       "cost": 0,
-      "services": []
+      "services": [],
+      "id": 3
     },
     {
-      "id": "d479",
-      "name": "Teste 06",
-      "budget": "12000",
+      "id": "53a9",
+      "name": "Teste03",
+      "budget": "12300",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 12300,
+      "services": [
+        {
+          "name": "Teste03",
+          "cost": "12000",
+          "description": "qwe",
+          "id": "02f9002c-3c0b-46a4-90d0-46cefb89666e"
+        },
+        {
+          "name": "servico 02",
+          "cost": "200",
+          "description": "Tentar mudar valor",
+          "id": "5952b8df-937c-4817-b670-51f9e6cb376b"
+        },
+        {
+          "name": "Teste03",
+          "cost": "100",
+          "description": "ebaaa",
+          "id": "7a0d21b6-7011-4b2c-af63-c2f8aa2ea3a5"
+        }
+      ]
+    },
+    {
+      "id": "7507",
+      "name": "Teste01",
+      "budget": "1500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 280,
+      "services": [
+        {
+          "name": "Teste01",
+          "cost": "120",
+          "description": "Testando Cadatro de servico",
+          "id": "0bd97f88-482b-45f9-88a4-dbad4ae2b24a"
+        },
+        {
+          "name": "Testando Cadastro 02",
+          "cost": "160",
+          "description": "Testando Cadatro de servico",
+          "id": "7e642974-f788-49d9-9426-b07c8a8d2b9c"
+        }
+      ]
+    },
+    {
+      "id": "d146",
+      "name": "Projeto Atualizado1",
+      "budget": "1200",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
       },
       "cost": 0,
       "services": []
